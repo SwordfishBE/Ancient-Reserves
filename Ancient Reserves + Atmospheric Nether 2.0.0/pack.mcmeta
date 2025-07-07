@@ -3,7 +3,7 @@
       "pack_format": 10,
       "supported_formats": [
          10,
-         71
+         81
       ],
       "description": "§l§6Lost treasure to be found in an Atmospheric Nether!"
    },
@@ -27,7 +27,7 @@
             "directory": "1-21-4-overlay",
             "formats": [
                58,
-               71
+               81
             ]
          }
       ]
